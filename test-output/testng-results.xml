@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Gmail Automation Test" duration-ms="29467" started-at="2019-02-15T17:45:54Z" finished-at="2019-02-15T17:46:23Z">
+  <suite name="Gmail Automation Test" duration-ms="28604" started-at="2019-02-15T18:07:32Z" finished-at="2019-02-15T18:08:00Z">
     <groups>
     </groups>
-    <test name="Gmail Login Test" duration-ms="29467" started-at="2019-02-15T17:45:54Z" finished-at="2019-02-15T17:46:23Z">
+    <test name="Gmail Login Test" duration-ms="28604" started-at="2019-02-15T18:07:32Z" finished-at="2019-02-15T18:08:00Z">
       <class name="com.gmail.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="setUp" is-config="true" duration-ms="17700" started-at="2019-02-15T17:45:54Z" finished-at="2019-02-15T17:46:12Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="setUp" is-config="true" duration-ms="16212" started-at="2019-02-15T18:07:32Z" finished-at="2019-02-15T18:07:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="loginPageTitleTest" duration-ms="47" started-at="2019-02-15T17:46:12Z" finished-at="2019-02-15T17:46:12Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="loginPageTitleTest" duration-ms="47" started-at="2019-02-15T18:07:48Z" finished-at="2019-02-15T18:07:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="tearDown" is-config="true" duration-ms="120" started-at="2019-02-15T17:46:12Z" finished-at="2019-02-15T17:46:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="tearDown" is-config="true" duration-ms="115" started-at="2019-02-15T18:07:48Z" finished-at="2019-02-15T18:07:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="setUp" is-config="true" duration-ms="11330" started-at="2019-02-15T17:46:12Z" finished-at="2019-02-15T17:46:23Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="setUp" is-config="true" duration-ms="11903" started-at="2019-02-15T18:07:48Z" finished-at="2019-02-15T18:08:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="signInTextTest()[pri:2, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="signInTextTest" duration-ms="75" started-at="2019-02-15T17:46:23Z" finished-at="2019-02-15T17:46:23Z">
+        <test-method status="PASS" signature="signInTextTest()[pri:2, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="signInTextTest" duration-ms="89" started-at="2019-02-15T18:08:00Z" finished-at="2019-02-15T18:08:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTextTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="tearDown" is-config="true" duration-ms="106" started-at="2019-02-15T17:46:23Z" finished-at="2019-02-15T17:46:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@5442a311]" name="tearDown" is-config="true" duration-ms="148" started-at="2019-02-15T18:08:00Z" finished-at="2019-02-15T18:08:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

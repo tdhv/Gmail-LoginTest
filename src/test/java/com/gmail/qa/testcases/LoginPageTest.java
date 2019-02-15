@@ -36,6 +36,7 @@ public class LoginPageTest extends TestBase {
 		Assert.assertTrue(loginpage.checksingInText());
 	}
 
+	@Ignore
 	@Test(priority = 3)
 	public void googleTextTest() {
 		Assert.assertTrue(loginpage.checkgoogleText());

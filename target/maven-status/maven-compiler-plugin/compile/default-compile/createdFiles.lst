@@ -1,0 +1,5 @@
+com/gmail/qa/pages/LoginPage.class
+com/gmail/qa/util/TestUtil.class
+com/gmail/qa/pages/SignUpPage.class
+com/gmail/qa/pages/HomePage.class
+com/gmail/qa/base/TestBase.class

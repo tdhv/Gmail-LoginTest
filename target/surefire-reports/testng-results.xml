@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.gmail.qa.testcases.LoginPageTest" duration-ms="12656" started-at="2019-02-13T17:04:13Z" finished-at="2019-02-13T17:04:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12656" started-at="2019-02-13T17:04:13Z" finished-at="2019-02-13T17:04:25Z">
+      <class name="com.gmail.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="setUp" is-config="true" duration-ms="5426" started-at="2019-02-13T17:04:13Z" finished-at="2019-02-13T17:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="loginPageTitleTest" duration-ms="9" started-at="2019-02-13T17:04:18Z" finished-at="2019-02-13T17:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="tearDown" is-config="true" duration-ms="116" started-at="2019-02-13T17:04:18Z" finished-at="2019-02-13T17:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="setUp" is-config="true" duration-ms="3455" started-at="2019-02-13T17:04:18Z" finished-at="2019-02-13T17:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInTextTest()[pri:2, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="signInTextTest" duration-ms="52" started-at="2019-02-13T17:04:22Z" finished-at="2019-02-13T17:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="tearDown" is-config="true" duration-ms="147" started-at="2019-02-13T17:04:22Z" finished-at="2019-02-13T17:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="setUp" is-config="true" duration-ms="3273" started-at="2019-02-13T17:04:22Z" finished-at="2019-02-13T17:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleTextTest()[pri:3, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="googleTextTest" duration-ms="46" started-at="2019-02-13T17:04:25Z" finished-at="2019-02-13T17:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.LoginPageTest@1324409e]" name="tearDown" is-config="true" duration-ms="100" started-at="2019-02-13T17:04:25Z" finished-at="2019-02-13T17:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmail.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.gmail.qa.testcases.LoginPageTest -->
+</testng-results>

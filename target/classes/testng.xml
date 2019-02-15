@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Gmail Automation Test">
+
+<!-- 	this is for extent report generation
+ -->	
+ 	<listeners>
+		<listener class-name="com.gmail.qa.extendReport.ExtendReportListener"></listener>
+	</listeners>
+
+	<test name="Gmail Login Test">
+		<classes>
+			<class name="com.gmail.qa.testcases.LoginPageTest"></class>
+
+		</classes>
+	</test>
+</suite>

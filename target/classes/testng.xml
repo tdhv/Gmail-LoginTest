@@ -11,6 +11,7 @@
 	<test name="Gmail Login Test">
 		<classes>
 			<class name="com.gmail.qa.testcases.LoginPageTest"></class>
+			<class name="com.gmail.qa.testcases.HomePageTest"></class>
 		</classes>
 	</test>
 </suite>

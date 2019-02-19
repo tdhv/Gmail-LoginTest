@@ -57,6 +57,12 @@ public class LoginPage extends TestBase {
 		password.sendKeys(pwd);
 		nextBtn.click();
 
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+
 		return new HomePage();
 	}
 }

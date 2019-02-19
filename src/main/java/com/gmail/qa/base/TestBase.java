@@ -22,7 +22,7 @@ public class TestBase {
 		FileInputStream in;
 		try {
 			in = new FileInputStream(
-					"/Users/tanvi/eclipse-workspace/GmailTest/src/main/java/com/gmail/qa/config/config.properties");
+					"/Users/tanvi/eclipse-workspace/Gmail-LoginTest/src/main/java/com/gmail/qa/config/config.properties");
 			prop.load(in);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
